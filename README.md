@@ -1,3 +1,5 @@
+﻿# 01_stepic_67_python_programming.ipynb
+
 ## [stepic.org] Программирование на Python
 #### Bioinformatics Institute
 https://stepik.org/course/67
@@ -8,9 +10,7 @@ https://stepik.org/course/67
 
 ### Программа курса
 ##### Неделя 1. Операторы. Переменные. Типы данных. Условия
-
 ##### Неделя 2. Циклы. Строки. Списки
-
 ##### Неделя 3. Функции. Словари. Интерпретатор. Файлы. Модули.
 
-[Сертификат об окончании курса][https://stepik.org/cert/226690]
+<a href="https://stepik.org/cert/226690">[Сертификат об окончании курса]</a>
