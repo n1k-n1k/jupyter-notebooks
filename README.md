@@ -1,4 +1,4 @@
-﻿# <a href="https://github.com/n1k-n1k/jupyter-notebooks/blob/master/01_stepic_67_python_programming.ipynb">01_stepic_67_python_programming.ipynb</a>
+﻿# <a href="01_stepic_67_python_programming.ipynb</a>
 
 #### [Stepik | Bioinformatics Institute]
 ## Программирование на Python
@@ -17,7 +17,7 @@ https://stepik.org/course/67
 
 
 
-# <a href="https://github.com/n1k-n1k/jupyter-notebooks/blob/master/02_stepic_512_python_basics_and_application.ipynb">02_stepic_512_python_basics_and_application.ipynb</a>
+# <a href="02_stepic_512_python_basics_and_application.ipynb">02_stepic_512_python_basics_and_application.ipynb</a>
 
 #### [Stepik | Bioinformatics Institute]
 ## Python: основы и применение
