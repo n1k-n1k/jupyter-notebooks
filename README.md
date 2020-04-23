@@ -1,4 +1,4 @@
-﻿# <a href="01_stepic_67_python_programming.ipynb</a>
+﻿# <a href="01_stepic_67_python_programming.ipynb">01_stepic_67_python_programming.ipynb</a>
 
 #### [Stepik | Bioinformatics Institute]
 ## Программирование на Python
